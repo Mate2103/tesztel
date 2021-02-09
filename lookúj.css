@@ -4,8 +4,7 @@ a {
 	padding: 12px 23px;
 	text-decoration-line: none;
 	text-align: center;
-	margin-right: auto;
-	margin-left: auto;
+	margin: 0 auto;
 	display: block;
 }
 a:hover {
@@ -16,6 +15,4 @@ img{
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-	height: 500;
-	width: 1000;
 }

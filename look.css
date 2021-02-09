@@ -1,7 +1,6 @@
 		body {
-			background-image: url("https://hungarytoday.hu/wp-content/uploads/2018/02/18ps27.jpg");
-			height: 100%;
-			width: 100%;
+			background-image: url("https://i.imgur.com/CvOaelz.jpg");
+			background-size: 100%;
 		}
 		h1 
 		{
@@ -21,10 +20,10 @@
 			align-content: center;
 		}
 		a {
-			size: 15;
-			color: red;
-			text-decoration: none;
-
+			color: white;
+			text-decoration-line: none;
+			background-color: black;
+			text-align: center;
 		}
 		a:hover {
 			color: green;
