@@ -1,0 +1,42 @@
+		body {
+			background-image: url("https://hungarytoday.hu/wp-content/uploads/2018/02/18ps27.jpg");
+			height: 100%;
+			width: 100%;
+		}
+		h1 
+		{
+			font-family: "Comic Sans";
+			color: red;
+			text-align: center;		
+		}
+		h3 {
+			color: blue;
+			text-align: center;
+		}
+		h2 {
+			color: orange;
+			text-align: center;
+		}
+		img {
+			align-content: center;
+		}
+		a {
+			size: 15;
+			color: red;
+			text-decoration: none;
+
+		}
+		
+		a:link{
+  			background-color: #ffffff;
+ 			color: white;
+  			padding: 12px 23px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+		}
+		a:hover {
+			padding: 200px 400px
+			background-color: black;
+			text-align: left;
+		}
