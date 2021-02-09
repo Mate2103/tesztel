@@ -53,4 +53,7 @@
 		img {
 			height: 512px;
 			width: 512px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 		}
