@@ -89,7 +89,7 @@
 .dropbtn {
   background-color: #333333;
   color: white;
-  padding: 16px;
+  padding: 14px;
   font-size: 16px;
   border: none;
 }
@@ -110,7 +110,7 @@
 
 .dropdown-content a {
   color: white;
-  padding: 12px 16px;
+  padding: 8px 16px;
   text-decoration: none;
   display: block;
   background-color: #333333;
@@ -130,5 +130,5 @@
 }
 #menu{
 	background-color: #333333;
-	size: 1920px 12px;
+	size: 1920px 14px;
 }
